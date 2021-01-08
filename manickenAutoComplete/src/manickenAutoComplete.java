@@ -58,7 +58,6 @@ public class manickenAutoComplete implements Tool
 
 	public void init(Editor editor) { // required by tool loader
 		this.editor = editor;
-		
 		// workaround to make sure that init is run after the Arduino IDE gui has loaded
 		// otherwise any System.out(will never be shown at the init phase) 
 		editor.addWindowListener(new java.awt.event.WindowAdapter() {

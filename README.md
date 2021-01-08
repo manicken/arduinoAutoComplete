@@ -5,8 +5,6 @@ https://github.com/bobbylight/AutoComplete<br>
 currently it must be activated by ctrl+space<br>
 and have none of the Arduino syntax embedded<br>
 
-<br>
-the retry count can also be adjusted<br>
 
 ## Install
 
@@ -18,17 +16,17 @@ the retry count can also be adjusted<br>
 * global (into sketchbook folder (defined in Arduino IDE - Preferenses):<br>
 &nbsp;&nbsp;make a new folder in the above defined sketchbook folder<br>
 &nbsp;&nbsp;called tools<br>
-&nbsp;&nbsp;then copy the folder manickenUpload from the repository into this new "tools" folder.<br>
+&nbsp;&nbsp;then copy the folder manickenAutoComplete from the repository into this new "tools" folder.<br>
 
 ### Alternative install
 
 * on windows / linux (into Arduino IDE install dir):<br>
-&nbsp;&nbsp;copy folder manickenUpload to [Arduino IDE install location]/tools directory<br>
+&nbsp;&nbsp;copy folder manickenAutoComplete to [Arduino IDE install location]/tools directory<br>
 &nbsp;&nbsp;ex: /Arduino-1.8.13/tools<br>
 
 * on mac (into Arduino IDE package):<br>
 &nbsp;&nbsp;In Applications right click and click on "Show Package Contents", then browse Contents -> Java -> tools<br>
-&nbsp;&nbsp;by holding the Option key(copy) drag folder manickenUpload from the downloaded repository to the open tools folder above<br>
+&nbsp;&nbsp;by holding the Option key(copy) drag folder manickenAutoComplete from the downloaded repository to the open tools folder above<br>
 &nbsp;&nbsp;select replace it you allready have an older version<br>
 
 ## Compiling (optional)
