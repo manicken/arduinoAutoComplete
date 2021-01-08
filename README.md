@@ -1,4 +1,4 @@
-# manickenUpload
+# manickenAutoComplete
 a Arduino IDE "plugin" that uses<br>
 the AutoComplete functionality<br>
 https://github.com/bobbylight/AutoComplete<br>
