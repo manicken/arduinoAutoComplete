@@ -1,6 +1,7 @@
 # manickenUpload
-a Arduino IDE "plugin" that enables <br>
-a AutoComplete functionality<br>
+a Arduino IDE "plugin" that uses<br>
+the AutoComplete functionality<br>
+https://github.com/bobbylight/AutoComplete<br>
 currently it must be activated by ctrl+space<br>
 and have none of the Arduino syntax embedded<br>
 
